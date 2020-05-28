@@ -1,1 +1,1 @@
-# Animated switcher
+# Animated switcher : switch
